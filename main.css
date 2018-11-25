@@ -1,0 +1,14 @@
+div.round_diagram {
+    font-size: 2.5em;
+    text-align: center;
+    line-height: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(238, 255, 211);
+    border-radius: 100px;
+    border: 35px solid;
+    border-top-color: rgb(154, 192, 92);
+    border-left-color: rgb(154, 192, 92);
+    border-bottom-color: rgb(154, 192, 92);
+    border-right-color: rgb(214, 233, 183);
+}
